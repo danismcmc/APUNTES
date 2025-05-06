@@ -1,0 +1,12 @@
+# Ignorar la carpeta de compilados Java
+bin/
+*.class
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema de Windows
+Thumbs.db
+desktop.ini
+
