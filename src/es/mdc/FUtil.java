@@ -8,7 +8,6 @@ import java.io.File;
  * @param filename el nombre del archivo a verificar. No debe ser null ni estar vacío.
  * @return true si el archivo existe, false en caso contrario.
  * @throws IllegalArgumentException si el nombre del archivo es null, vacío o contiene solo espacios en blanco.
- * @author Dani Sanchez
  */
 
 public class FUtil {
